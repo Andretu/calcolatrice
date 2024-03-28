@@ -15,7 +15,7 @@ This calculator was developed for educational purposes only. it was implemented 
 
 ### Installing
 
-It does not require any installation, just download the html file and from the folder run `start calculator.html` on the terminal.
+It does not require any installation, just download the html file and from the folder run `start calculatrice.html` on the terminal.
 
 ## Authors
 
